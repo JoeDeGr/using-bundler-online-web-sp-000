@@ -1,3 +1,4 @@
+require relative './config/environment'
 Hashie
 Sinatra
 Octokit
